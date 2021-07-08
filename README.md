@@ -16,3 +16,4 @@ To implement this I reccomend replacing the following files in the examples prov
  - Comment on code
  - Fix spelling error in Callbacksample.c
  - Update Readme
+ - Destory connection method doesn't work. 
